@@ -92,7 +92,7 @@ function Display() {
              <div class="card">
              <div class="row">
   <div class="col-md-11">
-      <img src="pixel6-logo.jpg" class="img-fluid mx-auto img1 mx-2" alt=""/>
+      <img src="/pixel6-logo.jpg" class="img-fluid mx-auto img1 mx-2" alt=""/>
     </div>
     <div class="col-md-1">
       <i class="fa fa-bars mx-auto icon-bar"></i>

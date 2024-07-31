@@ -80,7 +80,7 @@ function Displayuser() {
             <div className="card">
                 <div className="row">
                     <div className="col-md-11">
-                        <img src="pixel6-logo.jpg" className="img-fluid mx-auto img1 mx-2" alt="Logo" />
+                        <img src="../pixel6-logo.jpg" className="img-fluid mx-auto img1 mx-2" alt="Logo" />
                     </div>
                     <div className="col-md-1">
                         <i className="fa fa-bars mx-auto icon-bar"></i>

@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Display from './components/Display';
+import Displayuser from './components/Displayuser';
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter>
       <Routes>
     
-      <Route path="/" element={<Display />} />
+      <Route path="/" element={<Displayuser />} />
         </Routes>
         </BrowserRouter>
         </>

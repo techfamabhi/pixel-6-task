@@ -80,7 +80,7 @@ function Displayuser() {
             <div className="card">
                 <div className="row">
                     <div className="col-md-11">
-                        <img src="/pixel6-logo.JPG" className="img-fluid mx-auto img1 mx-2" alt="Logo" />
+                      <a href="https://pixel-6-task.vercel.app/">  <img src="/pixel6-logo.JPG" className="img-fluid mx-auto img1 mx-2" alt="Logo" /> </a>
                     </div>
                     <div className="col-md-1">
                         <i className="fa fa-bars mx-auto icon-bar"></i>
